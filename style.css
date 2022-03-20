@@ -1,0 +1,52 @@
+.bg-image{
+   background-image: url("img/1071136r80phOjW.jpg");
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background-size: auto;
+}
+.date-margin-top {
+    margin-top: 0%;
+    font-size: 50px;
+}
+
+.text-gradient {
+    background: -webkit-linear-gradient(#e877ae, #7c73f3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 1px 1px 0 black;
+}
+
+.quote-gradient {
+    background: -webkit-linear-gradient(#e877ae, #7c73f3);
+    font-size: 30px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 1px 1px 0 black;
+}
+
+.button-gradient {
+    background: -webkit-linear-gradient(#e877ae, #7c73f3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 1px 1px 0 black;
+}
+
+.heding-margin-top {
+    margin-top: 1%;
+
+}
+
+.quote-margin-top {
+    margin-top: 5%;
+}
+
+.button-margin-top {
+    margin-top: 5%;
+}
+
+.quote-container {
+    height: 60%;
+    width: 30%;
+}
+
